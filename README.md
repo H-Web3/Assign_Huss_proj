@@ -1,5 +1,7 @@
 ## Setting up the project
 
+Download the zip file, unzip it, open with vsCode or your favourite Editor,  
+start running  (the code)
 - npm create vite@latest
 - npm install (for installing dependencies)
 - npm run dev (run server)
